@@ -8,7 +8,7 @@
 
  ## Video
 
-![Watch the video!](https://youtu.be/b8KJ7nL6HWM)
+[![Watch the video!](https://img.youtube.com/vi/b8KJ7nL6HWM/maxresdefault.jpg)](https://www.youtube.com/watch?v=b8KJ7nL6HWM&ab_channel=soulresonance42)
  
  ## Table of Contents
 
