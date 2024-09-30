@@ -35,6 +35,7 @@ Cd into index.js. Open in Integrated Terminal. Type "node index.js". Answer the 
  ## Contributing
 
 Ariel Schilling
+Boot Camp, responsible for starter code found in markdown.js and index.js
 
  ## Tests
 
